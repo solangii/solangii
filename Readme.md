@@ -2,7 +2,7 @@ Good day:raised_hands: Wecolme to my GitHub. My name is **Sorang Kim**. I am an 
 
 ---
 
-### :school_satchel:Education
+### :school_satchel: Education
 
 **Ulsan National Institute of Science and Technology (UNIST)**. Mar 2018 - Now
 
@@ -12,7 +12,7 @@ Good day:raised_hands: Wecolme to my GitHub. My name is **Sorang Kim**. I am an 
 
   
 
-### :seedling: Experiment
+### :seedling:  Experiment
 
 - **Meta Inteligence and Information Learning lab** Intern. July. 2020 - Now
 
@@ -20,7 +20,7 @@ Good day:raised_hands: Wecolme to my GitHub. My name is **Sorang Kim**. I am an 
 
   
 
-### :bulb:Skills
+### :bulb: Skills
 
 - Programming skills : Python, C, C++, MATLAB
 
@@ -28,7 +28,7 @@ Good day:raised_hands: Wecolme to my GitHub. My name is **Sorang Kim**. I am an 
 
   
 
-### :ok_woman:Social Info
+### :ok_woman: Social Info
 
 - E-mail : solangii@unist.ac.kr
 - [Facebook](https://www.facebook.com/solangii1229/)
