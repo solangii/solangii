@@ -7,14 +7,13 @@ Good day:raised_hands: Wecolme to my GitHub. My name is **Sorang Kim**. I am an 
 **Ulsan National Institute of Science and Technology (UNIST)**. Mar 2018 - Now
 
 - Major : School of Computer Science Engineering (CSE).
-
 - Minor : School of Industrial Engineering (IE).
 
-  
+Changwon Science High School (CSH). Mar 2015 - Feb 2018.
 
 ### :seedling:  Experiment
 
-- **Meta Inteligence and Information Learning lab** Intern. July. 2020 - Now
+- [**Meta Inteligence and Information Learning lab**](https://sites.google.com/view/swyoon89/research-interests) Intern. July. 2020 - Now
 
 - **Do:main**(Start-Up) Software Developer & Designer. Aug.2019 - Feb.2020
 
