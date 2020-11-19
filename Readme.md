@@ -13,7 +13,7 @@ Changwon Science High School (CSH). Mar 2015 - Feb 2018.
 
 ### :seedling:  Experiment
 
-- [**Meta Inteligence and Information Learning lab**](https://sites.google.com/view/swyoon89/research-interests) Intern. July. 2020 - Now
+- [**Machine Inteligence and Information Learning lab**](https://sites.google.com/view/swyoon89/research-interests) Intern. July. 2020 - Now
 
 - **Do:main**(Start-Up) Software Developer & Designer. Aug.2019 - Feb.2020
 
