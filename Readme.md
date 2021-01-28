@@ -32,7 +32,3 @@ Changwon Science High School (CSH). Mar 2015 - Feb 2018.
 ### :ok_woman: Social Info
 
 - E-mail : solangii@unist.ac.kr
-- [Facebook](https://www.facebook.com/solangii1229/)
-- [Instagram](https://www.instagram.com/s_rang__) (Private Account now)
-- blog (Not yet public...)
-
