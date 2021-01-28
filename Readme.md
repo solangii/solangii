@@ -11,11 +11,11 @@ Good day:raised_hands: Wecolme to my GitHub. My name is **Sorang Kim**. I am an 
 
 ### :seedling:  Experiment
 
-- [**Machine Inteligence and Information Learning lab**](https://sites.google.com/view/swyoon89/research-interests) Intern. July. 2020 - Now
+- [**Machine Inteligence and Information Learning lab**](https://sites.google.com/view/swyoon89/research-interests) Intern. July 2020 - Now
 
-- **Do:main**(Start-Up) Software Developer & Designer. Aug.2019 - Feb.2020
+- **Do:main**(Start-Up) Software Developer & Designer. Aug 2019 - Feb 2020
 
-- **Entrepreneurship & Data Science Summer Camp** (@University of Illinois at Urbana-Champaign) Cooperation with **[Creasion](https://iventure.illinois.edu/2019/06/01/creasion-creating-a-sustainable-water-source-for-indonesian-communities/)** . July.2019
+- **Entrepreneurship & Data Science Summer Camp** (@University of Illinois at Urbana-Champaign) Cooperation with **[Creasion](https://iventure.illinois.edu/2019/06/01/creasion-creating-a-sustainable-water-source-for-indonesian-communities/)**. July 2019
 
   
 
