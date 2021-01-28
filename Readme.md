@@ -9,8 +9,6 @@ Good day:raised_hands: Wecolme to my GitHub. My name is **Sorang Kim**. I am an 
 - Major : School of Computer Science Engineering (CSE).
 - Minor : School of Industrial Engineering (IE).
 
-Changwon Science High School (CSH). Mar 2015 - Feb 2018.
-
 ### :seedling:  Experiment
 
 - [**Machine Inteligence and Information Learning lab**](https://sites.google.com/view/swyoon89/research-interests) Intern. July. 2020 - Now
