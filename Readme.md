@@ -1,4 +1,4 @@
-Good day:raised_hands: Wecolme to my GitHub. My name is **Sorang Kim**. I am an undergraduate who is interested in **deep learning**. Among deep learning, I am interested in **generalization of learning** and studying to solve the **limitations of deep learning** like **meta-learning** and **few-shot learning**.
+Good day:raised_hands: Wecolme to my GitHub. My name is **Sorang Kim**. I am an undergraduate who is interested in **deep learning**. Among deep learning, I am interested in **learning for generalization** and studying to solve the **limitations of deep learning** like **meta-learning** and **few-shot learning**.
 
 ---
 
@@ -16,6 +16,8 @@ Changwon Science High School (CSH). Mar 2015 - Feb 2018.
 - [**Machine Inteligence and Information Learning lab**](https://sites.google.com/view/swyoon89/research-interests) Intern. July. 2020 - Now
 
 - **Do:main**(Start-Up) Software Developer & Designer. Aug.2019 - Feb.2020
+
+- **Entrepreneurship & Data Science Summer Camp** (@University of Illinois at Urbana-Champaign) Cooperation with **[Creasion](https://iventure.illinois.edu/2019/06/01/creasion-creating-a-sustainable-water-source-for-indonesian-communities/)** . July.2019
 
   
 
