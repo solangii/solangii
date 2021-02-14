@@ -6,9 +6,11 @@
 
 - Various applications of ML / DL
 
-- Generalization for learning
-  - Meta Learning
-  - Lifelong Learning
+- Generalization for learning ( `Meta Learning` , `Lifelong Learning` )
 
-### [![Blog](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&logoColor=white)](http://solangii.github.io)[![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/solangii1229)[![Instagram Badge](http://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/s_rang__)](https://www.instagram.com/s_rang__/) 
+### [![Blog](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&logoColor=white)](http://solangii.github.io)
+
+### [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/solangii1229)
+
+### [![Instagram Badge](http://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/s_rang__)](https://www.instagram.com/s_rang__/) 
 
