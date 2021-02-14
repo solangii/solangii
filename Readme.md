@@ -1,34 +1,14 @@
-Good day:raised_hands: Wecolme to my GitHub. My name is **Sorang Kim**. I am an undergraduate who is interested in **deep learning**. Among deep learning, I am interested in **learning for generalization** and studying to solve the **limitations of deep learning** like **meta-learning** and **Lifelong-learning**.
+### Hi there, I am Sorang Kim :raised_hands:
 
----
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsolangii&count_bg=%23FF6F61&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### :school_satchel: Education
+### :page_facing_up: Interests
 
-**Ulsan National Institute of Science and Technology (UNIST)**. Mar 2018 - Now
+- Various applications of ML / DL
 
-- Major : School of Computer Science Engineering (CSE).
-- Minor : School of Industrial Engineering (IE).
+- Generalization for learning
+  - Meta Learning
+  - Lifelong Learning
 
-### :seedling:  Experiment
+### [![Blog](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&logoColor=white)](http://solangii.github.io)[![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/solangii1229)[![Instagram Badge](http://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/s_rang__)](https://www.instagram.com/s_rang__/) 
 
-- [**Machine Inteligence and Information Learning lab**](https://sites.google.com/view/swyoon89/research-interests) Intern. July 2020 - Now
-
-- **[brew AI neo scientists (brAIns)](https://sites.google.com/view/unist-brains?fbclid=IwAR0hv0jCFM27Bo37Fu9z_dy7Ni9_yis5vzNfUex2xaXTOMDJVKGFzw1twTo)**. Jan 2021 - Now
-
-- **Do:main**(Start-Up) Software Developer & Designer. Aug 2019 - Feb 2020
-
-- **Entrepreneurship & Data Science Summer Camp** (@University of Illinois at Urbana-Champaign) Cooperation with **[Creasion](https://iventure.illinois.edu/2019/06/01/creasion-creating-a-sustainable-water-source-for-indonesian-communities/)**. July 2019
-
-  
-
-### :bulb: Skills
-
-- Programming skills : Python, C, C++, MATLAB
-
-- Languages: Korean, English
-
-  
-
-### :ok_woman: Social Info
-
-- E-mail : solangii@unist.ac.kr
